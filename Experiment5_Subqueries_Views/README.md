@@ -1,4 +1,6 @@
 # Experiment 5: Subqueries and Views
+### Reg No : 212223110033
+### Name : OVIYA P
 
 ## AIM
 To study and implement subqueries and views.
